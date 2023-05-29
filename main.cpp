@@ -10,6 +10,6 @@ int feature_1()
 
 int main(int argc, const char* argv[])
 {
-	printf("Hello world\r\n");
+	printf("HELLO WORLD!!!\r\n");
 	return 0;
 }
