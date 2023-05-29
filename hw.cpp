@@ -3,7 +3,7 @@
 
 int feature_2()
 {
-	return 0;
+	return 1;
 }
 
 int main(int argc, const char* argv[])
